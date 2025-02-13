@@ -1,4 +1,6 @@
 # E-Portfolio
 Magnus Ödling E-Portfolio
-# Education
+### Education
 Engineer in Information technology at KTH
+### Work Experience
+### Projects
