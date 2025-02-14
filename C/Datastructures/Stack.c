@@ -1,5 +1,5 @@
-
 //Simple non-dynamic stack implementation in C
+//The stack is used in addition to other programs as it does not contain a main method.
 typedef struct stack {
     int top;
     int size;
