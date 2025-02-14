@@ -1,5 +1,7 @@
 
 //Example implementation of a TCP Client that can send data to a server and read incoming data.
+//The client itself does not connect to a server. It used in conjuction with an ASK program.
+//This code was created as a project assignment.
 public class TCPClient {
     
     public TCPClient() {
