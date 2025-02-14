@@ -1,4 +1,5 @@
 //A method for sorting an array of strings lexicographically
+//The method can be put inside a class for use.
 public static String[] selectionsortstring (String[] strings){
     for(int i = 0; i < strings.length-1; i++){
         int swap_index = i;
