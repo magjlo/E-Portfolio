@@ -1,2 +1,0 @@
-All the code in this folder is in the C programming language.
-At the top of each code file there is a short description about the code and its use.
